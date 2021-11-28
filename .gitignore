@@ -1,7 +1,16 @@
 Apps/bin/Debug/
+<<<<<<< HEAD
 Apps/obj/
 CustomTypes/bin/Debug/
 CustomTypes/obj/
 DataStructures/bin/Debug/
 DataStructures/obj/
 BTK.sln
+=======
+Apps/obj
+CustomTypes/bin/Debug/
+CustomTypes/obj
+DataStructures/bin/Debug/
+DataStructures/obj
+BTK.sln
+>>>>>>> f475842561a6a7c2832124fcafc80b79574be107
