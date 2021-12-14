@@ -1,4 +1,4 @@
-# This purpose of this project is implement Data Structures such as Array, Graph, Heap, LinkedList, Queue, Set, Shared, SortingAlgorithms, Stack and Tree with C#.
+# This purpose of this project is to implement Data Structures such as Array, Graph, Heap, LinkedList, Queue, Set, Shared, SortingAlgorithms, Stack and Tree with C#.
 
 ## You can see how to use and call them in Main Thread in Apps.cs that located inside Apps folder.
 
